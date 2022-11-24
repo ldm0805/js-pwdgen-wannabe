@@ -9,5 +9,5 @@ Scomposizione problema:
         1.21 Sostituire lo spazio che c'è nel cognome con un underscore;
     1.3 Richiedere all'utente di inserire il suo colore preferito;
     1.4 Inserire da script il numero 21;
-2. Restituire a schermo la password.
-3. Unire le risposte dell'utente (scrivendole senza spazi)  in questo ordine: nome, cognome, colore preferito ed il numero 21;
+2. Unire le risposte dell'utente (scrivendole senza spazi)  in questo ordine: nome, cognome, colore preferito ed il numero 21;
+3. Restituire a schermo la password.
