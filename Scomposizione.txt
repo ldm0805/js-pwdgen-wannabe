@@ -4,8 +4,9 @@ Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo co
  
 Scomposizione problema: 
 1. Far apparire i seguenti banner per le richieste: 
-    1.1 Richiedere all'utente di inserire il nome; 
-    1.2 Richiedere all'utente di inserire il cognome; 
-    1.3 Richiedere all'utente di inserire il colore preferito; 
-2. Unire le risposte dell'utente e porre il numero 21 alla fine; 
-3. Restituire la password.
+    1.1 Richiedere all'utente di inserire il suo nome; 
+    1.2 Richiedere all'utente di inserire il suo cognome; 
+    1.3 Richiedere all'utente di inserire il suo colore preferito;
+    1.4 Inserire da script il numero 21;
+3. Restituire a schermo la password.
+2. Unire le risposte dell'utente (scrivendole senza spazi)  in questo ordine: nome, cognome, colore preferito ed il numero 21; 
