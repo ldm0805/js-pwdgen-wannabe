@@ -15,4 +15,4 @@ let color = prompt('Inserisci il tuo colore preferito');
 const tewnty_one = '21';
 
 //Restituire a schermo la password.
-document.getElementById('weak_pass').innerHTML = 'La tua password è' + " " + nome + result + color + tewnty_one;
+document.getElementById('weak_pass').innerHTML = 'La tua password è:' + " " + nome + result + color + tewnty_one;
