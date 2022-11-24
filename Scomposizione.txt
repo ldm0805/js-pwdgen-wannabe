@@ -1,0 +1,11 @@
+Problema: 
+ 
+Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito Infine scrivi sulla pagina nomecognomecolorepreferito21. 
+ 
+Scomposizione problema: 
+1. Far apparire i seguenti banner per le richieste: 
+    1.1 Richiedere all'utente di inserire il nome; 
+    1.2 Richiedere all'utente di inserire il cognome; 
+    1.3 Richiedere all'utente di inserire il colore preferito; 
+2. Unire le risposte dell'utente e porre il numero 21 alla fine; 
+3. Restituire la password.
